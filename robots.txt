@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://swastik-portfilo.vercel.app/sitemap.xml
